@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Imaduddin Sheikh
-- 👀 My interests lie in programming, manipulating data, and networks
+- 👀 My interests lie in programming, manipulating and understanding data, and networks.
 - 🌱 I am Computer Engineering sophomore at Illinois Institute of Technology based in Chicago IL, USA.
 
 <!---
